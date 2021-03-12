@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "username": "john@acme.com",
+      "email": "john@acme.com",
+      "role": ["ROLE_USER"]
+    },
+    {
+      "id": 2,
+      "firstname": "Homer",
+      "lastname": "Acme",
+      "username": "homer@acme.com",
+      "email": "homer@acme.com",
+      "role": ["ROLE_USER"]
+    }
+  ],
+  "products": [
+    {
+      "name": "Macbook Pro 2020",
+      "price": "500",
+      "id": 5
+    },
+    {
+      "name": "Lima Juice",
+      "price": 100,
+      "id": 9
+    },
+    {
+      "name": "Playstation 5",
+      "price": 399,
+      "id": 10
+    },
+    {
+      "name": "Playstation 4",
+      "price": 299,
+      "id": 11
+    },
+    {
+      "name": "Xbox 360",
+      "price": 100,
+      "id": 12
+    },
+    {
+      "name": "Laptop 2020",
+      "price": 600,
+      "id": 13
+    }
+  ]
+}
